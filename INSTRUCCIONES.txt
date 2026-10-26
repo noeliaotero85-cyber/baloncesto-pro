@@ -1,0 +1,9 @@
+BALONCESTO PRO PARA LENOVO ANDROID
+
+1. Subir los cinco archivos de esta carpeta juntos a un alojamiento HTTPS (por ejemplo GitHub Pages).
+2. Abrir la URL HTTPS de index.html en Chrome en la tablet.
+3. Menú ⋮ > Instalar aplicación / Añadir a pantalla de inicio.
+4. Abrir una vez con Internet para que se guarden los archivos offline.
+5. Probar en modo avión y comprobar las copias de seguridad.
+
+No se trata de un APK. Los datos se guardan en el almacenamiento local del navegador de esa instalación; exporta copias JSON periódicamente.
